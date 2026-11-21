@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Ramniwas · Jalgaon",
+  "description": "Heritage business, transit, and family hotel established in 1975, steps from Jalgaon Junction Railway Station. Direct room booking, dining, and hotel management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
